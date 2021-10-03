@@ -1,7 +1,6 @@
-package com.example.mfe;
+package com.asdosjani.mfe;
 
 import android.Manifest;
-import android.app.ActivityManager;
 import android.app.NotificationChannel;
 import android.app.NotificationManager;
 import android.app.PendingIntent;
@@ -58,18 +57,14 @@ import java.io.BufferedInputStream;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.io.OutputStream;
 import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
-import java.net.CacheRequest;
 import java.net.Socket;
 import java.net.URL;
 import java.net.UnknownHostException;
-import java.nio.file.CopyOption;
 import java.nio.file.Files;
 import java.text.SimpleDateFormat;
 import java.util.Arrays;
