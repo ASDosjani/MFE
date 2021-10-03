@@ -1,5 +1,5 @@
 package com.example.mfe;
-
+//lol
 import android.Manifest;
 import android.app.NotificationChannel;
 import android.app.NotificationManager;
@@ -84,6 +84,7 @@ import fi.iki.elonen.NanoHTTPD;
 import static java.lang.Thread.sleep;
 
 public class Server extends AppCompatActivity implements View.OnClickListener, PopupMenu.OnMenuItemClickListener {
+    int a;
     private WebServer server;
     private ServerSocket serverSocket;
     Thread serverThread, mpstart = new Thread();
