@@ -41,7 +41,7 @@
             android:layout_toLeftOf="@+id/connect_server"
             android:layout_toEndOf="@+id/button2"
             android:layout_toRightOf="@+id/button2"
-            android:digits="0123456789,."
+            android:digits="0123456789."
             android:ems="10"
             android:hint="IP Address"
             android:inputType="numberDecimal"
